@@ -62,7 +62,4 @@ File Descriptor Output: *ft_putchar_fd, ft_putstr_fd, ft_putendl_fd, ft_putnbr_f
 - 'Gitlab'
 
 ## AI Usage
-*AI was used for explaining the Makefile & Readme*
-=======
-# libft
-My implementation of the **libft** project from 42 School, recreating standard C library functions to strengthen my understanding of C programming, pointers, strings, memory management, and linked lists.
+AI was used for explaining the Makefile & Readme
