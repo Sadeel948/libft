@@ -17,7 +17,6 @@ This library is composed of three main parts:
 
 ## Installation Method
 *git clone <https://github.com/Sadeel948/libft.git>*
-*cd <libft>*
 
 ## Compilation
 The library is compiled into ('libft.a') using 'cc' with the flags '-Wall -Wextra -Werror'.
