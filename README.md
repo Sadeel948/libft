@@ -16,8 +16,8 @@ This library is composed of three main parts:
 # Instructions
 
 ## Installation Method
-*git clone <git@github.com:42learners/Common-Core---Libft-bc5174c2-88b5-4f7a-8a05-f2c862117c69.git>*
-*cd <git@github.com:42learners/Common-Core---Libft-bc5174c2-88b5-4f7a-8a05-f2c862117c69.git>*
+*git clone*
+*cd *
 
 ## Compilation
 The library is compiled into ('libft.a') using 'cc' with the flags '-Wall -Wextra -Werror'.
@@ -64,3 +64,6 @@ File Descriptor Output: *ft_putchar_fd, ft_putstr_fd, ft_putendl_fd, ft_putnbr_f
 
 ## AI Usage
 *AI was used for explaining the Makefile & Readme*
+=======
+# libft
+My implementation of the **libft** project from 42 School, recreating standard C library functions to strengthen my understanding of C programming, pointers, strings, memory management, and linked lists.
